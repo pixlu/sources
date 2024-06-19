@@ -5,6 +5,7 @@ This repository is used to gather all links to specific antivirus companies to r
 - Avira: https://www.avira.com/en/analysis/submit
 - BitDefender: https://www.bitdefender.com/consumer/support/answer/29358/
 - Brightcloud / Webroot: https://www.brightcloud.com/tools/url-ip-lookup.php
+- Cisco Talos: https://talosintelligence.com/reputation_center
 - Comodo: https://www.comodo.com/home/internet-security/submit.php 
 - CRDF: https://threatcenter.crdf.fr/submit_url.html
 - CyRadar: https://cyradar.com/
@@ -20,14 +21,17 @@ This repository is used to gather all links to specific antivirus companies to r
 - K7 Antivirus: https://support.k7computing.com/index.php?/ticket/submit-ticket
 - Kaspersky: https://opentip.kaspersky.com/
 - Lionic: https://www.lionic.com/reportu/
+- McAfee: https://sitelookup.mcafee.com/
 - Microsoft Smartscreen: https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest
 - Netcraft: https://report.netcraft.com/report
+- Norton / Symantec: https://submit.norton.com/
 - Openphish: https://openphish.com/index.html 
 - Quick Heal: https://www.quickheal.com/report_phishing
 - Quttera: https://quttera.com/
 - Scumware.org: https://www.scumware.org/add_url.php
 - Spam404: https://www.spam404.com/report.html
 - StopForumSpam: https://www.stopforumspam.com/add
+- Trellix: https://trustedsource.org/
 - Yandex Safebrowsing: https://yandex.com/support/search/troubleshooting/delspam.html
 - VIPRE: https://helpdesk.vipre.com/hc/en-us/requests/new
 

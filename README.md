@@ -26,11 +26,12 @@ This repository is used to gather all links to specific antivirus companies to r
 - Netcraft: https://report.netcraft.com/report
 - Norton / Symantec: https://submit.norton.com/
 - Openphish: https://openphish.com/index.html 
+- PhishFort: https://www.phishfort.com/resources/report-phishing
 - Quttera: https://quttera.com/
-- Scumware.org: https://www.scumware.org/add_url.php
 - Spam404: https://www.spam404.com/report.html
 - StopForumSpam: https://www.stopforumspam.com/add
 - Trellix: https://trustedsource.org/
+- URLQuery: https://urlquery.net
 - Yandex Safebrowsing: https://yandex.com/support/search/troubleshooting/delspam.html
 - VIPRE: https://helpdesk.vipre.com/hc/en-us/requests/new
 

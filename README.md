@@ -14,7 +14,7 @@ This repository is used to gather all links to specific antivirus companies to r
 - ESET: https://phishing.eset.com/en-us/report
 - Forcepoint Threatseeker: https://support.forcepoint.com/s/site-lookup
 - Fortinet / Fortiguard: https://www.fortiguard.com/faq/wfratingsubmit
-- G-Data: https://submit.gdatasoftware.com/privacy
+- G-Data: https://www.gdata.de/help/en/general/GeneralInformation/submitFileAppURL/
 - Google Safebrowsing (Report Phishing): https://safebrowsing.google.com/safebrowsing/report_phish/?hl=en
 - Google Safebrowsing (Report Malware): https://safebrowsing.google.com/safebrowsing/report_badware/?hl=en
 - Gridinsoft: https://gridinsoft.com/online-virus-scanner#url

@@ -27,6 +27,7 @@ This repository is used to gather all links to specific antivirus companies to r
 - Norton / Symantec: https://submit.norton.com/
 - Openphish: https://openphish.com/index.html 
 - PhishFort: https://www.phishfort.com/resources/report-phishing
+- Quad9: https://www.quad9.net/support/contact
 - Quttera: https://quttera.com/
 - Spam404: https://www.spam404.com/report.html
 - StopForumSpam: https://www.stopforumspam.com/add

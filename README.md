@@ -3,7 +3,7 @@ This repository is used to gather all links to specific antivirus companies to r
 
 **DO NOT ABUSE THIS REPOSITORY, REPORT LEGITIMATE BAD LINKS, NOT RANDOM PEOPLE.**
 
-- alphamountain.ai: ||https://www.alphamountain.ai/contact/||
+- alphamountain.ai: <summary>https://www.alphamountain.ai/contact/<summary>
 - Avast: https://www.avast.com/submit-a-sample#pc
 - Avira: https://www.avira.com/en/analysis/submit
 - BitDefender: https://www.bitdefender.com/consumer/support/answer/29358/

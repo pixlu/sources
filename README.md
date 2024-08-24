@@ -9,7 +9,6 @@ This repository is used to gather all links to specific antivirus companies to r
 - BitDefender: https://www.bitdefender.com/consumer/support/answer/29358/
 - Brightcloud / Webroot: https://www.brightcloud.com/tools/url-ip-lookup.php
 - Cisco Talos: https://talosintelligence.com/reputation_center
-- Comodo: https://www.comodo.com/home/internet-security/submit.php 
 - CRDF: https://threatcenter.crdf.fr/submit_url.html
 - CyRadar: https://cyradar.com/
 - Dr.Web: https://support.drweb.com/new/urlfilter/?lng=en

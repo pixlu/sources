@@ -23,11 +23,13 @@ This repository is used to gather all links to specific antivirus companies to r
 - K7 Antivirus: https://support.k7computing.com/index.php?/ticket/submit-ticket
 - Kaspersky: https://opentip.kaspersky.com/
 - Lionic: https://www.lionic.com/reportu/
+- Malwarebytes: https://support.malwarebytes.com/hc/en-us/articles/360038522814-Submit-a-phishing-link-malicious-website-or-file-to-Malwarebytes
 - McAfee: https://sitelookup.mcafee.com/
 - Microsoft Smartscreen: https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest
 - Netcraft: https://report.netcraft.com/report
 - Norton / Symantec: https://submit.norton.com/
 - Openphish: https://openphish.com/index.html 
+- Palo Alto: https://urlfiltering.paloaltonetworks.com/
 - PhishFort: https://www.phishfort.com/resources/report-phishing
 - Quad9: https://www.quad9.net/support/contact
 - Quttera: https://quttera.com/

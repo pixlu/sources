@@ -1,7 +1,7 @@
 ### Here you can report bad links via the sources provided below:
 This repository is used to gather all links to specific antivirus companies to report a bad link. Most info is gathered from VirusTotal, some from my personal experience when I reported bad links (I still do it btw lol)
 
-**please do not abuse this repository in order to report random people, report unsafe links, not them. :)**
+**edit: hello there, i've been made aware that people misuse this repository to report websites for no reason. due to this, i have enabled interaction limits. do NOT report websites for no reason and don't weaponize this repository for evil and heinous things, report actual URLs that are unsafe. thank you for reading this ~ pixel.**
 
 - alphamountain.ai: https://www.alphamountain.ai/contact/
 - Avast: https://www.avast.com/submit-a-sample#pc
